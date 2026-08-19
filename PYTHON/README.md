@@ -7,10 +7,6 @@
 There are two options to run, traditional ```python-venv```, or ```uv```
 
 
-### python-venv
-
-
-
 ### uv
 
 
