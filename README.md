@@ -9,7 +9,7 @@
 
 ## 📘 Table of Contents
 - [🧩 Overview](#-overview)
-- [⚙️ Installation](#%EF%B8%8F-installation)
+- [⚙️ Stand Alone Windows Application Installation](#%EF%B8%8F-installation)
 - [📂 Supported Data Formats](#-supported-data-formats)
 - [🚀 Using HDCluster](#-using-hdcluster)
 - [🎬 Demo Videos](#-watch-demo-videos-here)
@@ -30,7 +30,7 @@ HDCluster's strength lies in its ability to identify clusters of various shapes 
 
 HDCluster is available in both Python and Matlab.
 
-## ⚙️ Installation
+## ⚙️ Sand Alone Windows Application Installation
 
 A compiled version of HDCluster is available for  Windows. The installation process is straightforward.
 
