@@ -5,10 +5,13 @@ The following videos display the robustness of HDCluster.  An outlier between tw
 
 # Demo Baseline R1
 
+Click the image to play the video.
+
 [![HDCluster Baseline R1](HDCluster_images/hdc_logo.png)](https://youtu.be/lxGGBm4I67I?si)
 <br><br><br>
 
 # Demo Perturbed R1
 
+Click the image to play the video.
 
 [![HDCluster Perturbed R1](HDCluster_images/hdc_logo.png)](https://youtu.be/6l_F9WLsUVQ?si)
