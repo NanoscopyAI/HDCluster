@@ -28,12 +28,14 @@ dataPath= ['./Data/'];
 dataName = 'D31'; % http://cs.joensuu.fi/sipu/datasets/ 
 path = [dataPath, dataName, '.txt'];
 DF = importdata(path);
-labels = DF(:,end); % classes
-DF1 = DF(:,1:2); % data
+
  
+labels = DF.data(:,1:3);  % classes 
+DF1 = DF.data(:,1:2); % data
+
 % show the raw data 
 figure('color', [1 1 1 1]);
-scatter(DF1(:,1),DF1(:,2),6,labels, 'filled');
+scatter(DF1(:,1),DF1(:,2),labels,'filled');
 colormap(jet);
 xlabel('X'); ylabel('Y'); axis equal;
 title({['Ground truth data'],...
