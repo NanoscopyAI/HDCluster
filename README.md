@@ -24,13 +24,13 @@ HDCluster is a simple, yet powerful, one-parameter spatial clustering method. It
 
 HDCluster can be used as a standalone tool with a denoising option, or as a module within a larger computational pipeline to retrieve clustered localizations. Its versatility allows it to be applied to both biological and non-biological data.
 
-One of the key advantages of HDCluster is its minimal calibration requirement. It relies on a single parameter that can be set based on the physical characteristics of the clusters, such as their size. This parameter can be determined by analyzing the scale of clustering with a global H-Ripley's function or by measuring the spread of a known cluster within the data.
+One of the key advantages of HDCluster is its minimal calibration requirement. It relies on a single parameter that can be set based on the physical characteristics of the clusters, such as their size. This parameter can be determined by analyzing the scale of clustering with a global Ripley's H-function or by measuring the spread of a known cluster within the data.
 
 HDCluster's strength lies in its ability to identify clusters of various shapes and densities while automatically filtering out noisy localizations. By combining density-based clustering with graph-based techniques, HDCluster provides robust and accurate cluster identification in SMLM datasets, which is crucial for precise emitter reconstruction and other super-resolution microscopy applications.
 
-HDCluster is available in both Python and Matlab.
+HDCluster is available in both Python and MATLAB.
 
-## ⚙️ Sand Alone Windows Application Installation
+## ⚙️ Standalone Windows Application Installation
 
 A compiled version of HDCluster is available for  Windows. The installation process is straightforward.
 
